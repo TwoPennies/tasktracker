@@ -6,6 +6,8 @@ const About = () => {
             <Link to="/">Go back</Link>
         </div>
     )
+
+s
 }
 
 export default About
